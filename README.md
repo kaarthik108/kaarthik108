@@ -1,10 +1,8 @@
 ## Hi there, I'm Kaarthik Andavar - aka [Kaarthik108] 👋
 
 ## I'm a Data Scientist!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently working with InsideSherpa's Virtual internship program for DATA @ ANZ
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am a Dancer
 
 ### Connect with me:
 
