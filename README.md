@@ -1,5 +1,4 @@
-## Hi there, I'm [Kaarthik](https://github.com/kaarthik108)! <img 
-
+## Hi there, I'm [Kaarthik Andavar](https://github.com/kaarthik108)! 
 
 
 <p>
