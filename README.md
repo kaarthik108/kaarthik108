@@ -8,7 +8,7 @@
  </p>
 
 ## I'm a Data Scientist!
-- 👨🏽‍💻 I worked as Business Intelligence Analyst Intern at [Jucy,Auckland](https://www.jucy.com/nz/en/)
+- 👨🏽‍💻 I worked as Data Analyst Intern at [Jucy,Auckland](https://www.jucy.com/nz/en/)
 - 🌱 I’m currently working with InsideSherpa's Virtual internship program for DATA @ ANZ
 - 🤔 My interests are with Data Science,Marketing analytics etc..
 - 📫 Please email via kaarthikandavar@gmail.com to reach me
