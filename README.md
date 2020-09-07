@@ -10,7 +10,7 @@
 ## I'm a Data Scientist!
 - 👨🏽‍💻 I worked as Data Analyst Intern at [Jucy,Auckland](https://www.jucy.com/nz/en/)
 - 🌱 I’m currently working with InsideSherpa's Virtual internship program for DATA @ ANZ
-- 🤔 My interests are with Data Science, Machine Learning fields.
+- 🤔 My interests are in Data Science, Machine Learning fields
 - 📫 Please email via kaarthikandavar@gmail.com to reach me
 - 🥅 2020 Goals: To Become a Kaggle expert
 - 📝 See my [Resume](https://drive.google.com/file/d/120vm3XmKsBS7uhqfq2a1qNdWN05UK2FK/view?usp=sharing) to get more info.
