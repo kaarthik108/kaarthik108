@@ -1,30 +1,23 @@
-## Hi there, I'm [Kaarthik Andavar](https://github.com/kaarthik108)! 
+## Hi there, I'm Kaarthik Andavar 👋
+
+I'm a passionate engineer who loves working with the following technologies:
+
+![Snowflake](https://img.shields.io/badge/-Snowflake-29BFFF?style=flat-square&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/-DBT-FF694A?style=flat-square&logo=dbt&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 
-<p>
-  <em>
-    A <b>Data Science Graduate from University of Canterbury, Nz</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate <b>ML programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
-  </em>
- </p>
+👨‍💻 I'm an engineer with a passion for solving complex problems and creating innovative solutions. My expertise lies in working with data-driven technologies and building scalable applications.
 
+🎓 I hold a Master's degree in Data Science and have been fortunate enough to work on various projects involving data engineering, machine learning, and web development.
 
-### Worked with
+🔧 My current tech stack includes Snowflake, AWS, Airflow, DBT, Next.js, and OpenAI. I'm always eager to learn and explore new technologies to expand my skillset.
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-<code><img height="40" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" title="pandas"></code>
-<code><img height="40" src="https://bids.berkeley.edu/sites/default/files/styles/400x225/public/projects/numpy_logo_project_page_banner.png?itok=jaJeRlWs" title="numpy"></code>
-<code><img height="40" src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/Seaborn-logo.png" title="seaborn"></code>
-<code><img height="40" src="https://assets.datacamp.com/production/repositories/4199/datasets/3bdb4c210f93c5735bfd31c2bbd7e290f94c4a2b/matplotlib_logo.png" title="matplotlib"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" title="matplotlib"></code>
+💡 I enjoy collaborating with like-minded individuals and contributing to open-source projects. If you have an interesting idea or project, feel free to reach out to me!
 
+📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/kaarthik-andavar-b32a27143/) and [Twitter](https://twitter.com/feetup_andy).
 
-
-<img align="left" alt="Kaarthik108's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kaarthik108&show_icons=true&hide_border=true" />
-
-[youtube]: https://www.youtube.com/channel/UCgD0kJbQQdDNXxHr9TSf_CA?view_as=subscriber
-[instagram]: https://www.instagram.com/yo_andy_7/
-[linkedin]: https://www.linkedin.com/in/kaarthik-andavar-b32a27143/
-[twitter]: https://twitter.com/feetup_andy
+🌐 Visit my [shippings](https://pixicaption.com).
