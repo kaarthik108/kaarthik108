@@ -19,5 +19,3 @@ I'm a passionate engineer who loves working with the following technologies:
 💡 I enjoy collaborating with like-minded individuals and contributing to open-source projects. If you have an interesting idea or project, feel free to reach out to me!
 
 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/kaarthik-andavar-b32a27143/) and [Twitter](https://twitter.com/feetup_andy).
-
-🌐 Visit my [shippings](https://pixicaption.com).
